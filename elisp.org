@@ -1,0 +1,26 @@
+#+TITLE: Elisp Code
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+OPTIONS: html-postamble:nil
+#+STARTUP: showeverything entitiespretty
+
+NOTE: Comment your code, and verify it works for "breaking cases" i.e. 0! = 1.
+
+* Factorial Code
+** Code
+#+BEGIN_SRC emacs-lisp
+(+ 2 3 4)
+#+END_SRC
+** Test cases
+** How big a number will make your computer freeze?
+* "Real-World" function with mapcar
+** What is mapcar
+** Code
+#+BEGIN_SRC emacs-lisp
+
+#+END_SRC
+* Loop function
+** Code
+#+BEGIN_SRC emacs-lisp
+
+#+END_SRC
